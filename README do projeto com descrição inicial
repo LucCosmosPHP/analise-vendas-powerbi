@@ -1,0 +1,57 @@
+# 📊 Análise de Vendas com Power BI
+
+Este projeto apresenta uma análise visual de dados fictícios de vendas, utilizando o Power BI para gerar insights estratégicos que podem ajudar na tomada de decisões.
+
+---
+
+### 🎯 Objetivo
+
+Transformar dados de vendas em informações úteis, como:
+
+- Produtos mais vendidos
+- Clientes mais lucrativos
+- Faturamento por mês
+- Média de ticket por categoria
+- Comparativo de regiões
+
+---
+
+### 🧩 Dataset
+
+- Arquivo: `dataset/vendas_ficticias.xlsx`
+- Tabelas simuladas com dados de clientes, produtos, regiões e vendas
+
+---
+
+### 📈 Dashboard
+
+O dashboard criado apresenta:
+
+- Filtros por região e categoria
+- Gráfico de barras dos produtos mais vendidos
+- Linha de tendência de faturamento
+- Tabela dinâmica com total de vendas por cliente
+
+*Em breve adicionarei prints ou vídeo do dashboard aqui.*
+
+---
+
+### 🛠️ Ferramentas Utilizadas
+
+- Microsoft Power BI
+- Microsoft Excel
+
+---
+
+### 🚀 Como visualizar
+
+1. Baixe o arquivo `Dashboard.pbix`
+2. Abra com o Power BI Desktop
+3. Explore os dados e os visuais
+
+---
+
+### 📬 Contato
+
+Caso tenha interesse em conversar ou saber mais sobre este projeto:
+- GitHub: [LucCosmosPHP](https://github.com/LucCosmosPHP)
